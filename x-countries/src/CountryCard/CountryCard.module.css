@@ -1,0 +1,20 @@
+.card {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+  align-items: center;
+  text-align: center;
+
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 8px;
+  height: 150px;
+  width: 150px;
+}
+
+.countryimage {
+  height: 100px;
+  width: 100px;
+}
