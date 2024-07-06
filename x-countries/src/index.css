@@ -66,3 +66,16 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+.search {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0px 10px 10px;
+  height: 40px;
+  color: purple;
+}
+.countries {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
